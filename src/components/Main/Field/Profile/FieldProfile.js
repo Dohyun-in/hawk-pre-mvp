@@ -1,6 +1,6 @@
 // FieldProfile.js
 import React from "react";
-import profileImg from "assets/mvp_icon_v1/empty_page_v2/profile_tab_click.png";
+import profileImg from "assets/mvp_icon_v1/empty_page_v2/profile_click.png";
 import emptyPage from "assets/mvp_icon_v1/empty_page_v2/popup.png";
 import subscribeButton from "assets/mvp_icon_v1/empty_page_v2/popup_button.png";
 
