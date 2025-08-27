@@ -1,6 +1,6 @@
 // RankingTab.js
 import React from "react";
-import rankingImg from "assets/mvp_icon_v1/empty_page_v2/랭킹탭 클릭시(하단탭_랭킹).png";
+import rankingImg from "assets/mvp_icon_v1/empty_page_v2/ranking_tab_click.png";
 import emptyPage from "assets/mvp_icon_v1/empty_page_v2/popup.png";
 import subscribeButton from "assets/mvp_icon_v1/empty_page_v2/popup_button.png";
 
