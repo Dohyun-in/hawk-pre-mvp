@@ -1,0 +1,16 @@
+import { Main, Intro } from 'components';
+
+import { Field, Ranking, Study } from 'components/Main';
+
+import { Feed, Profile } from 'components/Main/Field';
+
+import { Chim, Home } from 'components/Main/Study';
+
+import { Eng, Jpn, Chn } from 'components/Main/Study/Home/Chim';
+
+import { Day1, Day2 } from 'components/Main/Study/Home/Chim/Eng';
+
+import { Prelearn, Video, Shadowing, Test } from 'components/Main/Study/Home/Chim/Eng/Day1';
+
+# 1. 기본 내보내기 (default export) + 네임드 내보내기(named exports) 조합
+import Day1Learning, { Prelearn, Video } from '../Day1';
